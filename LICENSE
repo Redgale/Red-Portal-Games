@@ -1,0 +1,12 @@
+Copyright (c) 2026 Red Inc. and all repository contributors
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. MANDATORY ATTRIBUTION
+Permission is hereby NOT granted to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, UNLESS explicit and clear credit is provided to ALL current contributors listed on this GitHub repository. This attribution must be prominent in any project, documentation, or deployment that utilizes this work. If attribution is not provided, you have no rights to use this Software.
+
+2. VOLATILITY OF SERVICE AND CONTENT
+The Software, this repository, its source code, its data, and any associated web deployments or live services are considered highly volatile. The authors and contributors reserve the right to change, modify, interrupt, or permanently shut down the repository or any associated deployments at any time, for any reason, without prior notice. Reliance on the continuous uptime or availability of this Software or its deployments is strictly at your own risk.
+
+3. DISCLAIMER OF WARRANTY
+THE SOFTWARE AND ALL ASSOCIATED DEPLOYMENTS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
